@@ -1,0 +1,5 @@
+﻿  C99的changeaboutarr、.c
+D:\C\C99的changeabout啊让人、\C99的changeabout啊让人、\C99的changeaboutarr、.c(6,10): error C2057: 应输入常量表达式
+D:\C\C99的changeabout啊让人、\C99的changeabout啊让人、\C99的changeaboutarr、.c(6,10): error C2466: 不能分配常量大小为 0 的数组
+D:\C\C99的changeabout啊让人、\C99的changeabout啊让人、\C99的changeaboutarr、.c(6,6): error C2133: “arr”: 未知的大小
+D:\C\C99的changeabout啊让人、\C99的changeabout啊让人、\C99的changeaboutarr、.c(7,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
